@@ -23,7 +23,7 @@ It serves as an online resume and a hub for my work in software development.
 ---
 
 ## 🚀 Live Demo
-🔗 [View My Portfolio](https://your-username.github.io/portfolio/)  
+🔗 [View My Portfolio](https://your-username.github.io/portfolio/)   
 
 ---
 
