@@ -11,7 +11,7 @@ It serves as an online resume and a hub for my work in software development.
 - About Me section with career highlights  
 - Projects showcase with live demos & source code  
 - Skills & technologies I work with  
-- Contact section with social links  
+- Contact section with social links 
 
 ---
 
