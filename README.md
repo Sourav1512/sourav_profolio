@@ -13,7 +13,7 @@ It serves as an online resume and a hub for my work in software development.
 - Skills & technologies I work with  
 - Contact section with social links 
 
----
+--- 
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
