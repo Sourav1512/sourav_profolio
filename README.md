@@ -19,7 +19,7 @@ It serves as an online resume and a hub for my work in software development.
 - **Frontend:** HTML, CSS, JavaScript  
 - **Frameworks/Libraries:** React.js / Tailwind CSS *(if used)*  
 - **Tools:** Git, GitHub, VS Code  
-
+ 
 ---
 
 ## 🚀 Live Demo
